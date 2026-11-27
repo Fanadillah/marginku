@@ -1,0 +1,720 @@
+{
+  "fps": 30,
+  "dryRun": false,
+  "totalDurationInFrames": 1889,
+  "scenes": [
+    {
+      "id": "scene_01",
+      "title": "Hook (Masalah)",
+      "audioFile": "audio/vo_01.mp3",
+      "hasAudio": true,
+      "text": "Orderan di Shopee dan TikTok ramai terus, tapi pas dicek rekening, kok malah boncos?",
+      "durationSec": 5.108,
+      "durationInFrames": 154,
+      "bufferFrames": 10,
+      "totalFrames": 164,
+      "words": [
+        {
+          "word": "Orderan",
+          "start": 0,
+          "end": 0.418
+        },
+        {
+          "word": "di",
+          "start": 0.453,
+          "end": 0.511
+        },
+        {
+          "word": "Shopee",
+          "start": 0.557,
+          "end": 0.871
+        },
+        {
+          "word": "dan",
+          "start": 0.906,
+          "end": 1.022
+        },
+        {
+          "word": "TikTok",
+          "start": 1.08,
+          "end": 1.405
+        },
+        {
+          "word": "ramai",
+          "start": 1.463,
+          "end": 1.683
+        },
+        {
+          "word": "terus,",
+          "start": 1.73,
+          "end": 2.276
+        },
+        {
+          "word": "tapi",
+          "start": 2.485,
+          "end": 2.728
+        },
+        {
+          "word": "pas",
+          "start": 2.786,
+          "end": 2.937
+        },
+        {
+          "word": "dicek",
+          "start": 2.995,
+          "end": 3.309
+        },
+        {
+          "word": "rekening,",
+          "start": 3.367,
+          "end": 3.796
+        },
+        {
+          "word": "kok",
+          "start": 3.82,
+          "end": 3.936
+        },
+        {
+          "word": "malah",
+          "start": 3.982,
+          "end": 4.191
+        },
+        {
+          "word": "boncos?",
+          "start": 4.226,
+          "end": 5.108
+        }
+      ]
+    },
+    {
+      "id": "scene_02",
+      "title": "Agitasi / Realita",
+      "audioFile": "audio/vo_02.mp3",
+      "hasAudio": true,
+      "text": "Hati-hati! Banyak penjual lupa hitung potongan admin, gratis ongkir ekstra, komisi affiliate, sampai biaya kemasan. Akibatnya, makin banyak yang beli, malah makin rugi.",
+      "durationSec": 13.235,
+      "durationInFrames": 398,
+      "bufferFrames": 10,
+      "totalFrames": 408,
+      "words": [
+        {
+          "word": "Hati-hati!",
+          "start": 0,
+          "end": 1.277
+        },
+        {
+          "word": "Banyak",
+          "start": 1.718,
+          "end": 2.078
+        },
+        {
+          "word": "penjual",
+          "start": 2.113,
+          "end": 2.577
+        },
+        {
+          "word": "lupa",
+          "start": 2.612,
+          "end": 2.972
+        },
+        {
+          "word": "hitung",
+          "start": 3.019,
+          "end": 3.309
+        },
+        {
+          "word": "potongan",
+          "start": 3.355,
+          "end": 3.727
+        },
+        {
+          "word": "admin,",
+          "start": 3.808,
+          "end": 4.423
+        },
+        {
+          "word": "gratis",
+          "start": 4.702,
+          "end": 5.12
+        },
+        {
+          "word": "ongkir",
+          "start": 5.19,
+          "end": 5.503
+        },
+        {
+          "word": "ekstra,",
+          "start": 5.573,
+          "end": 6.293
+        },
+        {
+          "word": "komisi",
+          "start": 6.467,
+          "end": 6.92
+        },
+        {
+          "word": "affiliate,",
+          "start": 6.978,
+          "end": 7.709
+        },
+        {
+          "word": "sampai",
+          "start": 7.837,
+          "end": 8.185
+        },
+        {
+          "word": "biaya",
+          "start": 8.231,
+          "end": 8.545
+        },
+        {
+          "word": "kemasan.",
+          "start": 8.591,
+          "end": 9.427
+        },
+        {
+          "word": "Akibatnya,",
+          "start": 9.706,
+          "end": 10.484
+        },
+        {
+          "word": "makin",
+          "start": 10.693,
+          "end": 10.96
+        },
+        {
+          "word": "banyak",
+          "start": 11.018,
+          "end": 11.355
+        },
+        {
+          "word": "yang",
+          "start": 11.413,
+          "end": 11.54
+        },
+        {
+          "word": "beli,",
+          "start": 11.587,
+          "end": 11.947
+        },
+        {
+          "word": "malah",
+          "start": 11.981,
+          "end": 12.225
+        },
+        {
+          "word": "makin",
+          "start": 12.26,
+          "end": 12.516
+        },
+        {
+          "word": "rugi.",
+          "start": 12.585,
+          "end": 13.235
+        }
+      ]
+    },
+    {
+      "id": "scene_03",
+      "title": "Solusi & Intro App",
+      "audioFile": "audio/vo_03.mp3",
+      "hasAudio": true,
+      "text": "Stop nebak-nebak harga jual! Kenalin, MarginKu. Aplikasi kalkulator HPP dan harga jual khusus penjual online.",
+      "durationSec": 7.802,
+      "durationInFrames": 235,
+      "bufferFrames": 10,
+      "totalFrames": 245,
+      "words": [
+        {
+          "word": "Stop",
+          "start": 0,
+          "end": 0.267
+        },
+        {
+          "word": "nebak-nebak",
+          "start": 0.325,
+          "end": 0.801
+        },
+        {
+          "word": "harga",
+          "start": 0.836,
+          "end": 1.068
+        },
+        {
+          "word": "jual!",
+          "start": 1.126,
+          "end": 1.776
+        },
+        {
+          "word": "Kenalin,",
+          "start": 2.055,
+          "end": 2.577
+        },
+        {
+          "word": "MarginKu.",
+          "start": 2.601,
+          "end": 3.32
+        },
+        {
+          "word": "Aplikasi",
+          "start": 3.529,
+          "end": 4.052
+        },
+        {
+          "word": "kalkulator",
+          "start": 4.11,
+          "end": 4.725
+        },
+        {
+          "word": "HPP",
+          "start": 4.772,
+          "end": 5.213
+        },
+        {
+          "word": "dan",
+          "start": 5.329,
+          "end": 5.457
+        },
+        {
+          "word": "harga",
+          "start": 5.515,
+          "end": 5.817
+        },
+        {
+          "word": "jual",
+          "start": 5.886,
+          "end": 6.107
+        },
+        {
+          "word": "khusus",
+          "start": 6.165,
+          "end": 6.455
+        },
+        {
+          "word": "penjual",
+          "start": 6.502,
+          "end": 6.873
+        },
+        {
+          "word": "online.",
+          "start": 6.954,
+          "end": 7.802
+        }
+      ]
+    },
+    {
+      "id": "scene_04",
+      "title": "Demo Fitur Utama",
+      "audioFile": "audio/vo_04.mp3",
+      "hasAudio": true,
+      "text": "Tinggal masukin modal dan target untung bersih yang kamu mau. Dalam satu detik, MarginKu langsung kasih tahu harga jual paling aman, lengkap dengan simulasi potongan semua marketplace sekaligus.",
+      "durationSec": 14.629,
+      "durationInFrames": 439,
+      "bufferFrames": 10,
+      "totalFrames": 449,
+      "words": [
+        {
+          "word": "Tinggal",
+          "start": 0,
+          "end": 0.337
+        },
+        {
+          "word": "masukin",
+          "start": 0.395,
+          "end": 0.755
+        },
+        {
+          "word": "modal",
+          "start": 0.801,
+          "end": 1.231
+        },
+        {
+          "word": "dan",
+          "start": 1.312,
+          "end": 1.451
+        },
+        {
+          "word": "target",
+          "start": 1.521,
+          "end": 1.95
+        },
+        {
+          "word": "untung",
+          "start": 2.032,
+          "end": 2.334
+        },
+        {
+          "word": "bersih",
+          "start": 2.368,
+          "end": 2.705
+        },
+        {
+          "word": "yang",
+          "start": 2.763,
+          "end": 2.914
+        },
+        {
+          "word": "kamu",
+          "start": 2.961,
+          "end": 3.251
+        },
+        {
+          "word": "mau.",
+          "start": 3.297,
+          "end": 3.843
+        },
+        {
+          "word": "Dalam",
+          "start": 4.284,
+          "end": 4.551
+        },
+        {
+          "word": "satu",
+          "start": 4.598,
+          "end": 4.807
+        },
+        {
+          "word": "detik,",
+          "start": 4.865,
+          "end": 5.375
+        },
+        {
+          "word": "MarginKu",
+          "start": 5.759,
+          "end": 6.432
+        },
+        {
+          "word": "langsung",
+          "start": 6.548,
+          "end": 7.07
+        },
+        {
+          "word": "kasih",
+          "start": 7.129,
+          "end": 7.477
+        },
+        {
+          "word": "tahu",
+          "start": 7.512,
+          "end": 7.93
+        },
+        {
+          "word": "harga",
+          "start": 8.255,
+          "end": 8.649
+        },
+        {
+          "word": "jual",
+          "start": 8.719,
+          "end": 8.975
+        },
+        {
+          "word": "paling",
+          "start": 9.033,
+          "end": 9.311
+        },
+        {
+          "word": "aman,",
+          "start": 9.427,
+          "end": 10.31
+        },
+        {
+          "word": "lengkap",
+          "start": 10.751,
+          "end": 11.146
+        },
+        {
+          "word": "dengan",
+          "start": 11.204,
+          "end": 11.401
+        },
+        {
+          "word": "simulasi",
+          "start": 11.447,
+          "end": 11.947
+        },
+        {
+          "word": "potongan",
+          "start": 12.005,
+          "end": 12.388
+        },
+        {
+          "word": "semua",
+          "start": 12.457,
+          "end": 12.875
+        },
+        {
+          "word": "marketplace",
+          "start": 12.934,
+          "end": 13.549
+        },
+        {
+          "word": "sekaligus.",
+          "start": 13.618,
+          "end": 14.629
+        }
+      ]
+    },
+    {
+      "id": "scene_05",
+      "title": "Kelebihan App",
+      "audioFile": "audio/vo_05.mp3",
+      "hasAudio": true,
+      "text": "Ada juga kalkulator resep bahan baku buat jualan kuliner, bisa export ke Excel, jalan seratus persen offline di HP kamu, dan yang paling penting: cukup sekali bayar, tanpa biaya langganan bulanan!",
+      "durationSec": 13.235,
+      "durationInFrames": 398,
+      "bufferFrames": 10,
+      "totalFrames": 408,
+      "words": [
+        {
+          "word": "Ada",
+          "start": 0,
+          "end": 0.197
+        },
+        {
+          "word": "juga",
+          "start": 0.244,
+          "end": 0.441
+        },
+        {
+          "word": "kalkulator",
+          "start": 0.488,
+          "end": 1.068
+        },
+        {
+          "word": "resep",
+          "start": 1.161,
+          "end": 1.498
+        },
+        {
+          "word": "bahan",
+          "start": 1.544,
+          "end": 1.753
+        },
+        {
+          "word": "baku",
+          "start": 1.823,
+          "end": 2.136
+        },
+        {
+          "word": "buat",
+          "start": 2.206,
+          "end": 2.403
+        },
+        {
+          "word": "jualan",
+          "start": 2.438,
+          "end": 2.786
+        },
+        {
+          "word": "kuliner,",
+          "start": 2.833,
+          "end": 3.518
+        },
+        {
+          "word": "bisa",
+          "start": 3.692,
+          "end": 3.982
+        },
+        {
+          "word": "export",
+          "start": 4.04,
+          "end": 4.551
+        },
+        {
+          "word": "ke",
+          "start": 4.598,
+          "end": 4.702
+        },
+        {
+          "word": "Excel,",
+          "start": 4.76,
+          "end": 5.445
+        },
+        {
+          "word": "jalan",
+          "start": 5.689,
+          "end": 6.002
+        },
+        {
+          "word": "seratus",
+          "start": 6.049,
+          "end": 6.397
+        },
+        {
+          "word": "persen",
+          "start": 6.455,
+          "end": 6.78
+        },
+        {
+          "word": "offline",
+          "start": 6.85,
+          "end": 7.198
+        },
+        {
+          "word": "di",
+          "start": 7.221,
+          "end": 7.291
+        },
+        {
+          "word": "HP",
+          "start": 7.349,
+          "end": 7.558
+        },
+        {
+          "word": "kamu,",
+          "start": 7.674,
+          "end": 8.092
+        },
+        {
+          "word": "dan",
+          "start": 8.243,
+          "end": 8.406
+        },
+        {
+          "word": "yang",
+          "start": 8.487,
+          "end": 8.626
+        },
+        {
+          "word": "paling",
+          "start": 8.673,
+          "end": 8.916
+        },
+        {
+          "word": "penting:",
+          "start": 8.951,
+          "end": 9.462
+        },
+        {
+          "word": "cukup",
+          "start": 9.636,
+          "end": 10.054
+        },
+        {
+          "word": "sekali",
+          "start": 10.124,
+          "end": 10.449
+        },
+        {
+          "word": "bayar,",
+          "start": 10.507,
+          "end": 10.971
+        },
+        {
+          "word": "tanpa",
+          "start": 11.122,
+          "end": 11.54
+        },
+        {
+          "word": "biaya",
+          "start": 11.598,
+          "end": 11.912
+        },
+        {
+          "word": "langganan",
+          "start": 11.958,
+          "end": 12.341
+        },
+        {
+          "word": "bulanan!",
+          "start": 12.399,
+          "end": 13.235
+        }
+      ]
+    },
+    {
+      "id": "scene_06",
+      "title": "CTA (Penutup)",
+      "audioFile": "audio/vo_06.mp3",
+      "hasAudio": true,
+      "text": "Amankan profit jualanmu sebelum makin boncos. Klik link di bio atau keranjang sekarang untuk dapetin MarginKu!",
+      "durationSec": 6.548,
+      "durationInFrames": 197,
+      "bufferFrames": 18,
+      "totalFrames": 215,
+      "words": [
+        {
+          "word": "Amankan",
+          "start": 0,
+          "end": 0.441
+        },
+        {
+          "word": "profit",
+          "start": 0.488,
+          "end": 0.766
+        },
+        {
+          "word": "jualanmu",
+          "start": 0.801,
+          "end": 1.196
+        },
+        {
+          "word": "sebelum",
+          "start": 1.231,
+          "end": 1.533
+        },
+        {
+          "word": "makin",
+          "start": 1.556,
+          "end": 1.8
+        },
+        {
+          "word": "boncos.",
+          "start": 1.869,
+          "end": 2.543
+        },
+        {
+          "word": "Klik",
+          "start": 2.868,
+          "end": 3.088
+        },
+        {
+          "word": "link",
+          "start": 3.158,
+          "end": 3.32
+        },
+        {
+          "word": "di",
+          "start": 3.367,
+          "end": 3.437
+        },
+        {
+          "word": "bio",
+          "start": 3.495,
+          "end": 3.715
+        },
+        {
+          "word": "atau",
+          "start": 3.773,
+          "end": 3.982
+        },
+        {
+          "word": "keranjang",
+          "start": 4.017,
+          "end": 4.412
+        },
+        {
+          "word": "sekarang",
+          "start": 4.47,
+          "end": 4.818
+        },
+        {
+          "word": "untuk",
+          "start": 4.888,
+          "end": 5.108
+        },
+        {
+          "word": "dapetin",
+          "start": 5.155,
+          "end": 5.503
+        },
+        {
+          "word": "MarginKu!",
+          "start": 5.561,
+          "end": 6.548
+        }
+      ]
+    }
+  ]
+}

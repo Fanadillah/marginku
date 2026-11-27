@@ -1,0 +1,30 @@
+{
+  "name": "marginku-promo-video",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "capture": "tsx scripts/capture-assets.ts",
+    "vo": "tsx scripts/generate-vo.ts",
+    "studio": "remotion studio",
+    "render": "remotion render MarginKuPromo out/marginku-promo-9x16.mp4 --codec=h264",
+    "build-all": "npm run capture && npm run vo && npm run render"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.547",
+    "@remotion/google-fonts": "4.0.547",
+    "@remotion/media-utils": "4.0.547",
+    "dotenv": "^16.4.7",
+    "lucide-react": "^0.475.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.547"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "19.3.0",
+    "playwright": "^1.50.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
